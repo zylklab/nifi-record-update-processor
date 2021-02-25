@@ -3,6 +3,9 @@
 /bin/
 **/bin/
 target/
+.recommenders
+.recommenders/
+.recommenders/**
 # OS Files #
 .DS_Store
 *.class
